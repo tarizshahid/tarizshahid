@@ -6,12 +6,12 @@
 
 <br/>
 
-- 📫 How to reach me **ojthapa@gmail.com**
+- 📫 How to reach me **tarizshahid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ozeshthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozeshthapa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3436775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3436775" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tar1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozeshthapa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11282316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3436775" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,29 +33,4 @@
 <a href="https://github.com/tarizshahid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarizshahid&layout=compact&theme=radical&custom_title=What%20I%20play%20with%20these%20days&langs_count=10" alt="Langauages I use" />
 </a>
-
-
-<br/> <br/>
-
-## My Recent Contributions
-
-<a href="https://github.com/tarizshahid/BioMetrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarizshahid&repo=BioMetrix&show_owner=false&theme=dark" />
-</a>
-
-
-<a href="https://github.com/tarizshahid/boggle-rails-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarizshahid&repo=boggle-rails-react&show_owner=false&theme=dark" />
-</a>
-
-<br/>
-
-<a href="https://github.com/tarizshahid/Docx-Html-Docx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarizshahid&repo=Docx-Html-Docx&show_owner=false&theme=dark" />
-</a>
-
-<a href="https://github.com/tarizshahid/DynamixPostgreSQLHandler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarizshahid&repo=DynamixPostgreSQLHandler&show_owner=false&theme=dark" />
-</a>
-
 
